@@ -7,7 +7,7 @@ Welcome to the repository for "Separating Knowledge with Procedural Data"! Here 
 </p>
 
 [[Project page](https://adrianrm99.github.io/_pages/separating_knowledge/)] 
-[[Paper](https://openreview.net/pdf?id=oyFAFpqaca)]
+[[Paper](https://arxiv.org/abs/2508.11697)]
 
 
 # Creating environment
